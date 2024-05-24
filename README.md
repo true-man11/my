@@ -1,1 +1,1 @@
-my vim plugin & .vimrc set
+This is my vim plugin & .vimrc set
